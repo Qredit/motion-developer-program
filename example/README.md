@@ -1,0 +1,1 @@
+The contents of this folder will provide examples of how assets should be integrated in Qredit Motion.
